@@ -5,3 +5,14 @@
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
 }
+
+/* .hideOnDesktop {
+    display: block;
+}
+
+
+@media (min-width: 768px) {
+    .hideOnDesktop {
+        display: none;
+    } 
+} */
